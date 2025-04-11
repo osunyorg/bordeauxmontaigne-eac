@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: 1. LE TEMPS
+  target: "/1-le-temps/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/1-le-temps"
+  file: content/fr/pages/1-le-temps/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
