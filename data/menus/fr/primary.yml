@@ -8,6 +8,13 @@ items:
   children: []
   path: "/pages/1-le-temps"
   file: content/fr/pages/1-le-temps/_index.html
+- title: 2. L’ESPACE
+  target: "/2-lespace/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/2-lespace"
+  file: content/fr/pages/2-lespace/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
