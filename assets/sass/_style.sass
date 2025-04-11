@@ -1,0 +1,28 @@
+.block-pages--alternate
+    @include media-breakpoint-up(desktop)
+        .page
+            margin-bottom: $spacing-5
+.block-testimonials
+    .testimonial 
+        blockquote
+            position: relative
+            &::before
+                content: "“"
+                position: absolute
+                left: -33px
+                top: 9px
+                color: $color-accent
+                font-size: pxToRem(60)
+                @include media-breakpoint-down(desktop)
+                    font-size: pxToRem(40)
+                    left: -22px
+                    top: 6px
+
+.logo-text
+    color: $color-accent
+#document-header
+    .menu
+        .nav-level-1
+            .active
+                text-decoration: underline $color-accent
+                text-underline-offset: 5px
