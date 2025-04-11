@@ -15,13 +15,6 @@ items:
   children: []
   path: "/pages/2-lespace"
   file: content/fr/pages/2-lespace/_index.html
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
