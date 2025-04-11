@@ -1,14 +1,14 @@
 ---
 title: Menu principal
 items:
-- title: 1. LE TEMPS
+- title: 1. Le temps.
   target: "/1-le-temps/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/1-le-temps"
   file: content/fr/pages/1-le-temps/_index.html
-- title: 2. L’ESPACE
+- title: 2. L’ESPACE.
   target: "/2-lespace/"
   kind: page
   new_tab: false
