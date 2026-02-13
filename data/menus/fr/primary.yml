@@ -2,24 +2,30 @@
 title: Menu principal
 items:
 - title: 1. Le temps.
+  slug: 1-le-temps
   target: "/1-le-temps/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/1-le-temps"
   file: content/fr/pages/1-le-temps/_index.html
 - title: 2. L’espace.
+  slug: 2-l-espace
   target: "/2-lespace/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/2-lespace"
   file: content/fr/pages/2-lespace/_index.html
 - title: 3. L'éducation.
+  slug: 3-l-education
   target: "/3-leducation/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/3-leducation"
   file: content/fr/pages/3-leducation/_index.html
 
