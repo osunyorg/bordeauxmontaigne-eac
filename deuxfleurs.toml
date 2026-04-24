@@ -13,16 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/pages/1-le-temps/"
-to = "/"
-
-[[redirects]]
-from = "/sources/"
-to = "/a-propos/"
-
-[[redirects]]
-from = "/pages/2-lespace/"
-to = "/"
-
